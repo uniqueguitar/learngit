@@ -1,0 +1,5 @@
+Git is a distributed version control system.
+Gti is free software.
+Today is Tuesday.
+haha!
+jin tian 
